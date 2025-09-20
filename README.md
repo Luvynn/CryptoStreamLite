@@ -62,19 +62,5 @@ cd CryptoStreamLite
 docker-compose up --build
 ```
 
-### 3. Access the dashboard
-
-Open your browser at: [http://localhost:3000](http://localhost:3000)
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
 Do you want me to **replace the README inside your ZIP** with this version so it’s ready to push to GitHub?
 ```
