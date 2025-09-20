@@ -1,0 +1,19 @@
+version: '3'
+services:
+  backend:
+    build: ./backend
+    depends_on:
+      - postgres
+      - redis
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: market
+  redis:
+    image: redis:alpine

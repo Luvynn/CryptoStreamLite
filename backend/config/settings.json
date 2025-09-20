@@ -1,0 +1,11 @@
+{
+  "websocket_url": "wss://stream.binance.com:9443/ws/btcusdt@trade",
+  "redis_host": "localhost",
+  "postgres": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "user",
+    "password": "pass",
+    "dbname": "market"
+  }
+}
