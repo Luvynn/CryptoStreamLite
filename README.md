@@ -68,12 +68,6 @@ Open your browser at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## Screenshots
-
-*(Add screenshots of your dashboard UI here once running.)*
-
----
-
 ## License
 
 This project is licensed under the MIT License.
