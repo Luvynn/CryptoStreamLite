@@ -31,6 +31,3 @@ and visualizes trades in a modern dashboard.
 - PostgreSQL (historical persistence)  
 - Docker + Docker Compose  
 
----
-
-## Project Structure
