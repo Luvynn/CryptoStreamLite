@@ -1,6 +1,4 @@
-Perfect 👍 — here’s a **clean, professional README** for your repo (no emojis, fully portfolio-ready):
 
----
 
 ```markdown
 # CryptoStreamLite
